@@ -1,0 +1,27 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdfenix/nodejs.git"
+  },
+  "author": "Rudnei Carlos de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdfenix/nodejs/issues"
+  },
+  "homepage": "https://github.com/Rdfenix/nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^4.2.1",
+    "method-override": "^2.3.10"
+  }
+}
