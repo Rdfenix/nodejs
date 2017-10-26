@@ -22,6 +22,7 @@
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "express-validator": "^4.2.1",
-    "method-override": "^2.3.10"
+    "method-override": "^2.3.10",
+    "socket.io": "^2.0.4"
   }
 }
